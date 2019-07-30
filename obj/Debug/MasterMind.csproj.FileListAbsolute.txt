@@ -1,0 +1,6 @@
+D:\Dropbox\Assignments\Soft140\MasterMind\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+D:\Dropbox\Assignments\Soft140\MasterMind\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+D:\Dropbox\Assignments\Soft140\MasterMind\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+D:\Dropbox\Assignments\Soft140\MasterMind\MasterMind\MasterMind\obj\Debug\MasterMind.csprojResolveAssemblyReference.cache
+D:\Dropbox\Assignments\Soft140\MasterMind\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+D:\Dropbox\Assignments\Soft140\MasterMind\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
